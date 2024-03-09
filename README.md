@@ -50,7 +50,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/saveen-maduranga-939250181" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="saveen-maduranga" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/saveen-maduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saveen-maduranga" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/20063596/saveen-maduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saveen-maduranga" height="50" width="50" /></a>
 <a href="https://fb.com/saveen maduranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saveen maduranga" height="50" width="50" /></a>
 <a href="https://www.instagram.com/saveen.maduranga/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="saveen.maduranga" height="50" width="50" /></a>
 </p>
