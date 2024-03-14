@@ -3,8 +3,6 @@
 <h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saveen-maduranga&label=Profile%20views&color=0e75b6&style=flat" alt="saveen-maduranga" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saveen-maduranga" target="blank"><img src="https://img.shields.io/twitter/follow/saveen-maduranga?logo=twitter&style=for-the-badge" alt="saveen-maduranga" /></a> </p>
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
