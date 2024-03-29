@@ -38,7 +38,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="200" src="saveen-banner.gif">
+  <img align="center" alt="Coding" width="300" src="mern-stack-01.png">
 
   </td>
 </tr>
