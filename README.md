@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Saveen Maduranga Samarakoon</h1>
 <h3 align="center">A Passionate MERN-Stack developer from Sri Lanka</h3>
 
-
 ---
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
