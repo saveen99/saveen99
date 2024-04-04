@@ -5,6 +5,27 @@
 
 
 ---
+<h3>About Me</h3>
+<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
+
+---
+<h3>Goals</h3>
+<p>My primary goals for learning the MERN stack include:</p>
+
+- **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually.
+- **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
+- **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
+
+---
+<h3>Current Focus</h3>
+
+I'm currently focusing on:
+
+- Setting up my development environment.
+- Learning the fundamentals of each technology in the MERN stack.
+- Building small projects to practice and reinforce my understanding.
+---
+<h3>Languages & Tools</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
