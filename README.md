@@ -3,29 +3,7 @@
 <h1 align="center">Hi, I'm Saveen Maduranga Samarakoon</h1>
 <h3 align="center">A Passionate MERN-Stack developer from Sri Lanka</h3>
 
-
 ---
-<h3>About Me</h3>
-<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
-
----
-<h3>Goals</h3>
-<p>My primary goals for learning the MERN stack include:</p>
-
-- **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually.
-- **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
-- **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
-
----
-<h3>Current Focus</h3>
-
-I'm currently focusing on:
-
-- Setting up my development environment.
-- Learning the fundamentals of each technology in the MERN stack.
-- Building small projects to practice and reinforce my understanding.
----
-<h3>Languages & Tools</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -41,33 +19,23 @@ I'm currently focusing on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+<h3>About Me</h3>
+<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saveen-maduranga&label=Profile%20views&color=0e75b6&style=flat" alt="saveen-maduranga" /> </p>
+<h3>Goals</h3>
+<p>My primary goals for learning the MERN stack include:</p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+- **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually.
+- **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
+- **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
 
+<h3>Current Focus</h3>
 
-- 🌱 I’m currently learning **MERN**
+I'm currently focusing on:
 
-- 🧑‍🎓 I’m an Undergraduate at **NIBM**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **saveenonline@gmail.com**
-
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="300" src="mern-stack-01.png">
-
-  </td>
-</tr>
-</table>
-
----
+- Setting up my development environment.
+- Learning the fundamentals of each technology in the MERN stack.
+- Building small projects to practice and reinforce my understanding.
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -87,6 +55,18 @@ I'm currently focusing on:
 </tr>
 </table>
 
+<h3>Connect with Me</h3>
+
+Let's connect and learn together! Feel free to reach out to me via:
+
+- **Email:** [saveenonline@gmail.com](mailto:saveenonline@gmail.com)
+- **LinkedIn:** [Saveen Maduranga](www.linkedin.com/in/saveen-maduranga-939250181)
+
+<h3>Contributions</h3>
+
+I welcome contributions, suggestions, and feedback from fellow learners and developers. If you have any ideas or improvements for my projects, don't hesitate to open an issue or submit a pull request.
+
+<h6>Happy coding!</h6>
 
 
 ---
