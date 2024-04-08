@@ -61,7 +61,7 @@ I'm currently focusing on:
 Let's connect and learn together! Feel free to reach out to me via:
 
 - **Email:** [saveenonline@gmail.com](mailto:saveenonline@gmail.com)
-- **LinkedIn:** [Saveen Maduranga](www.linkedin.com/in/saveen-maduranga-939250181)
+- **LinkedIn:** [Saveen Maduranga](https://www.linkedin.com/in/saveen-maduranga-939250181/)
 
 <h3>Contributions</h3>
 
