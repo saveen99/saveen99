@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 <h3>About Me</h3>
 <p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
 
