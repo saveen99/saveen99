@@ -61,7 +61,6 @@ Let's connect and learn together! Feel free to reach out to me via:
 
 - **Email:** [saveenonline@gmail.com](mailto:saveenonline@gmail.com)
 - **LinkedIn:** [Saveen Maduranga](https://www.linkedin.com/in/saveen-maduranga-939250181/)
-- **WhatsApp:** [+94 773 730 768](https://wa.me/+94773730768)
 
 
 <h3>Contributions</h3>
