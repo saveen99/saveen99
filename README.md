@@ -66,21 +66,16 @@ I'm currently focusing on:
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&show_icons=true&locale=en&layout=compact" alt="saveen-maduranga" />
-
----
-
-<p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
       
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen-maduranga&theme=default)
       
 </td>
 <td width="50%" align="center">
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saveen-maduranga&theme=default)
       
 </td>
 </tr>
