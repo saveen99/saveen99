@@ -59,7 +59,7 @@ I'm currently focusing on:
 </table>
 -->
 ---
-
+<p align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 ---
