@@ -39,9 +39,11 @@ I'm currently focusing on:
 - Learning the fundamentals of each technology in the MERN stack.
 - Building small projects to practice and reinforce my understanding.
 
+<!--
+
 <h3 align="center">My Statistics:</h3>
 
-<!--
+
 <p align="center">
 <table align="center">
 <tr border="none">
