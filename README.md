@@ -57,12 +57,13 @@ I'm currently focusing on:
   </td>
 </tr>
 </table>
--->
----
+
 <p align="center">
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
----
+-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&show_icons=true&locale=en&layout=compact" alt="saveen-maduranga" /></p>
 
 <h3>Connect with Me</h3>
 
