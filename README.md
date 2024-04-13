@@ -40,6 +40,7 @@ I'm currently focusing on:
 - Building small projects to practice and reinforce my understanding.
 
 <h3 align="center">My Statistics:</h3>
+<!--
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -56,6 +57,12 @@ I'm currently focusing on:
   </td>
 </tr>
 </table>
+-->
+---
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+---
 
 <h3>Connect with Me</h3>
 
