@@ -98,5 +98,5 @@ Let's connect and learn together! Feel free to reach out to me via:
 
 I welcome contributions, suggestions, and feedback from fellow learners and developers. If you have any ideas or improvements for my projects, don't hesitate to open an issue or submit a pull request.
 
-<h6>Happy coding!</h6>
+<h5>Happy coding!</h5>
 
