@@ -22,6 +22,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+
+
 <h3>About Me</h3>
 <p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
 
@@ -34,6 +36,8 @@
 - **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
 - **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
 
+
+
 <h3>Current Focus</h3>
 
 I'm currently focusing on:
@@ -43,6 +47,8 @@ I'm currently focusing on:
 - Building small projects to practice and reinforce my understanding.
 
 <!--
+
+
 
 <h3 align="center">My Statistics:</h3>
 
@@ -66,6 +72,9 @@ I'm currently focusing on:
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 -->
+
+
+
 
 <h3 align="center">My Statistics</h3>
 
@@ -97,9 +106,14 @@ Let's connect and learn together! Feel free to reach out to me via:
 - **LinkedIn:** [Saveen Maduranga](https://www.linkedin.com/in/saveen-maduranga-939250181/)
 
 
+
+
+
 <h3>Contributions</h3>
 
 I welcome contributions, suggestions, and feedback from fellow learners and developers. If you have any ideas or improvements for my projects, don't hesitate to open an issue or submit a pull request.
+
+
 
 <h6>Happy coding!</h6>
 
