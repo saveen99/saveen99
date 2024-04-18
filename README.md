@@ -25,6 +25,8 @@
 <h3>About Me</h3>
 <p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
 
+
+
 <h3>Goals</h3>
 <p>My primary goals for learning the MERN stack include:</p>
 
