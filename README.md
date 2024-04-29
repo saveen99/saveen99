@@ -34,7 +34,7 @@
 <h3>Goals</h3>
 <p>My primary goals for learning the MERN stack include:</p>
 
-- **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually.
+- **Mastering Each Component**: <span style="color: #1589F0"> Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually. </span> 
 - **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
 - **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
 
