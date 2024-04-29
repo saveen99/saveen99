@@ -52,8 +52,7 @@ I'm currently focusing on:
 
 
 
-<!-- <h3 align="center">My Statistics:</h3> -->
-<h3> $${\color{green}My Statistics}$$ </h3>
+<h3 align="center">My Statistics:</h3>
 
 <p align="center">
 <table align="center">
