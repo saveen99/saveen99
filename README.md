@@ -33,9 +33,7 @@
 
 <h3> <code style="color: green"> Goals </code> </h3>
 <h3> $${\color{green}Green}$$ </h3>
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+
 <p>My primary goals for learning the MERN stack include:</p>
 
 - **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually. 
