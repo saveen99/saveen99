@@ -32,8 +32,7 @@
 
 
 
-<!-- <h3> <code style="color: green"> Goals </code> </h3> -->
-<h3> ${\color{green}Goals}$ </h3>
+<h3> Goals </h3>
 
 <p>My primary goals for learning the MERN stack include:</p>
 
