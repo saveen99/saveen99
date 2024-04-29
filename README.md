@@ -43,7 +43,8 @@
 
 
 
-<h3>Current Focus</h3>
+<!-- <h3>Current Focus</h3> -->
+<h3> ${\color{green}Current Focus}$ </h3>
 
 I'm currently focusing on:
 
@@ -55,7 +56,8 @@ I'm currently focusing on:
 
 
 
-<h3 align="center">My Statistics:</h3>
+<!-- <h3 align="center">My Statistics:</h3> -->
+<h3> $${\color{green}My Statistics}$$ </h3>
 
 
 <p align="center">
@@ -81,7 +83,8 @@ I'm currently focusing on:
 
 
 
-<h3 align="center">My Statistics</h3>
+<!-- <h3 align="center">My Statistics:</h3> -->
+<h3> $${\color{green}My Statistics}$$ </h3>
 
 <p align="center">
 <table align="center">
