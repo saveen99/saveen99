@@ -42,8 +42,7 @@
 
 
 
-<!-- <h3>Current Focus</h3> -->
-<h3> ${\color{green}Current Focus}$ </h3>
+<h3>Current Focus</h3>
 
 I'm currently focusing on:
 
