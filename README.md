@@ -52,35 +52,6 @@ I'm currently focusing on:
 - Learning the fundamentals of each technology in the MERN stack.
 - Building small projects to practice and reinforce my understanding.
 
-<!--
-
-
-
-<!-- <h3 align="center">My Statistics:</h3> -->
-<h3> $${\color{green}My Statistics}$$ </h3>
-
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saveen-maduranga&theme=light&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saveen-maduranga&theme=light&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saveen-maduranga&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
--->
-
-
 
 
 <!-- <h3 align="center">My Statistics:</h3> -->
