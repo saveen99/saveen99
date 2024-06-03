@@ -24,9 +24,30 @@
 
 
 
-<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
+<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development.</p>
 
+<table  align="center">
+<tr border="none" >
+<td width="60%" align="">
 
+- I’m interested in learning new things and problem solving.
+
+- I’m currently reading for BSc(Hons) in Computing at National Institute of Business Management(NIBM).
+
+- How to reach me **saveenonline@gmail.com**
+  
+</td>
+<td width="40%" align="">
+  <p align="center">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen-maduranga&theme=default)
+ 
+  </p>
+</td>
+</tr>
+</table>
+
+<!--
 
 <h3> Goals </h3>
 
@@ -93,3 +114,5 @@ I welcome contributions, suggestions, and feedback from fellow learners and deve
 
 
 <h3 align="center"> ****** </h3>
+
+-->
