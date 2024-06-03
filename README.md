@@ -2,7 +2,7 @@
   <p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>
 -->
 
-## Saveen Maduranga
+
 
 
 <!--
@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+## Saveen Maduranga
 
 <p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development.</p>
 
