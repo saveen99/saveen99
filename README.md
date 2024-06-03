@@ -2,14 +2,13 @@
   <p align="center" ><img  src = "20240308_221258_0000.png?raw=true" width = 1000px></p>
 -->
 
-
-<h1 align="center">Hi, I'm Saveen Maduranga Samarakoon</h1>
-
+## Saveen Maduranga
 
 
+<!--
 <h3 align="center">A Passionate Full-Stack developer from Sri Lanka</h3>
 
-
+-->
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -24,9 +23,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-
-<h3>About Me</h3>
 
 <p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development with the MERN stack.</p>
 
