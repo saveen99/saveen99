@@ -82,9 +82,9 @@
 <tr border="none" >
 <td width="60%" align="">
 
-- I’m interested in learning new things and problem solving.
+- I’m interested in **learning new things and problem solving**.
 
-- I’m currently reading for BSc(Hons) in Computing at National Institute of Business Management(NIBM).
+- I’m currently reading for **BSc(Hons) in Computing** at National Institute of Business Management(NIBM).
 
 - How to reach me **saveenonline@gmail.com**
   
