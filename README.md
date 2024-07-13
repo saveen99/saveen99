@@ -76,95 +76,22 @@
 ## Saveen Maduranga
 -->
 
-<p>I'm an undergraduate student majoring in Computing at NIBM. Technology has always fascinated me, and I'm excited to explore the world of full-stack development.</p>
-
-<table  align="center">
-<tr border="none" >
-<td width="60%" align="">
-
-- I’m interested in **learning new things and problem solving**.
-
-- I’m currently reading for **BSc(Hons) in Computing** at National Institute of Business Management(NIBM).
-
-- How to reach me **saveenonline@gmail.com**
-  
-</td>
-<td width="40%" align="">
-  <p align="center">
+```csharp
+    using System;
     
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen-maduranga&theme=default)
- 
-  </p>
-</td>
-</tr>
-</table>
-
-<!--
-
-<h3> Goals </h3>
-
-<p>My primary goals for learning the MERN stack include:</p>
-
-- **Mastering Each Component**: Gain a deep understanding of MongoDB, Express.js, React, and Node.js individually. 
-- **Building Projects**: Develop several full-stack projects to apply what I learn and showcase my skills.
-- **Contributing to Open Source**: Contribute to open-source projects related to the MERN stack community.
-
-
-
-<h3>Current Focus</h3>
-
-I'm currently focusing on:
-
-- Setting up my development environment.
-- Learning the fundamentals of each technology in the MERN stack.
-- Building small projects to practice and reinforce my understanding.
-
-
-
-<h3 align="center">My Statistics:</h3>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-      
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen-maduranga&theme=default)
-      
-</td>
-<td width="50%" align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saveen-maduranga&theme=default)
-      
-</td>
-</tr>
-</table>
-
-
-
-
-
-<h3>Connect with Me</h3>
-
-Let's connect and learn together! Feel free to reach out to me via:
-
-- **Email:** [saveenonline@gmail.com](mailto:saveenonline@gmail.com)
-  
-- **LinkedIn:** [Saveen Maduranga](https://www.linkedin.com/in/saveen-maduranga-939250181/)
-
-
-
-
-
-<h3>Contributions</h3>
-
-I welcome contributions, suggestions, and feedback from fellow learners and developers. If you have any ideas or improvements for my projects, don't hesitate to open an issue or submit a pull request.
-
-
-
-<h6>Happy coding!</h6>
-
-
-
-<h3 align="center"> ****** </h3>
-
--->
+    namespace PersonalInfo
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                string name = "Saveen Maduranga";
+                string interests = "Learning new technologies";
+                string contact = "saveenonline@gmail.com";
+                
+                Console.WriteLine($"Name      : {name}");
+                Console.WriteLine($"Interests : {interests}");
+                Console.WriteLine($"Contact   : {contact}");
+            }
+        }
+    }
