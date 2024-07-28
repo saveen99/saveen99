@@ -70,7 +70,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 -->
-
+<!--
 
 📊 **i spent my time on:**
 <!--START_SECTION:waka-->
@@ -86,7 +86,7 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<!--
+
 ## Saveen Maduranga
 -->
 
