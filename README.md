@@ -55,6 +55,12 @@
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=saveen99&color=blue) 
+![GitHub Followers](https://img.shields.io/github/followers/saveen99?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/saveen99?label=Stars&style=social)
+
+
 <!--
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -76,25 +82,28 @@
 
 
 
-```csharp
-    using System;
-    
-    namespace PersonalInfo
-    {
-        class Program
-        {
-            static void Main(string[] args)
-            {
-                string name = "Saveen Maduranga";
-                string interests = "Learning new technologies";
-                string contact = "saveenonline@gmail.com";
-                
-                Console.WriteLine($"Name      : {name}");
-                Console.WriteLine($"Interests : {interests}");
-                Console.WriteLine($"Contact   : {contact}");
-            }
-        }
-    }
+```javascript
+import React from 'react';
 
+const MyProfile = () => {
+  const myInfo = {
+    name: "Saveen Maduranga",
+    title: "Full-Stack Developer",
+    skills: ["React", "JavaScript", "Node.js", "MongoDB", "Tailwind CSS"],
+  };
 
+  return (
+    <div style={{ fontFamily: 'Arial, sans-serif', padding: '20px', backgroundColor: '#282c34', color: '#61dafb' }}>
+      <h2>Hi there! I'm {myInfo.name} </h2>
+      <h3>{myInfo.title}</h3>
+      <p>Here are some of my key skills:</p>
+      <ul>
+        {myInfo.skills.map((skill, index) => (
+          <li key={index}>{skill}</li>
+        ))}
+      </ul>
+    </div>
+  );
+};
 
+export default MyProfile;
