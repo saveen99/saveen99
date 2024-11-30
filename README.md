@@ -1,7 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=saveen99&color=blue) 
-![GitHub Followers](https://img.shields.io/github/followers/saveen99?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/saveen99?label=Stars&style=social)
-
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -21,6 +17,10 @@
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=saveen99&color=blue) 
+![GitHub Followers](https://img.shields.io/github/followers/saveen99?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/saveen99?label=Stars&style=social)
 
 
 
