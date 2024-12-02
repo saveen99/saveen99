@@ -23,6 +23,14 @@
 ![GitHub Stars](https://img.shields.io/github/stars/saveen99?label=Stars&style=social)
 
 
+<div align="center">
+  <a href="https://github.com/saveen99">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saveen99&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saveen99&theme=github" height="180em" />
+</div>
+
+
+
 
 ```javascript
 import React from 'react';
@@ -54,8 +62,7 @@ export default MyProfile;
 
 <div align="center">
   <a href="https://github.com/saveen99">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saveen99&theme=github" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saveen99&theme=github" height="180em" />
+  
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saveen99&theme=github" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saveen99&theme=github" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saveen99&theme=github" height="180em" />
