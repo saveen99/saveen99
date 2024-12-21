@@ -35,7 +35,7 @@
 
 ### Hi there! I'm Saveen
 
-**Full-stack Developer** dedicated to designing and building seamless digital experiences. I specialize in creating intuitive user interfaces that are not only visually appealing but also highly functional. My focus extends to optimizing backend processes to ensure efficiency and scalability, resulting in applications that are both robust and user-friendly.
+As a **full-stack developer**, I'm passionate about crafting seamless digital experiences. I focus on designing intuitive and visually appealing user interfaces while ensuring the backend is optimized for efficiency and scalability. My goal is to create applications that are both powerful and user-friendly.
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saveen99&theme=github" height="180em" />
 
