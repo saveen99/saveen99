@@ -4,7 +4,7 @@ I design and build **scalable web applications, mobile applications, and practic
 
 > **Building software that solves real problems.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saveen.dev-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-react-jcsq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saveen.dev-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://saveenmaduranga.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saveen%20Maduranga-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saveen-maduranga)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/saveen99)
 [![SAVEEN.DEV](https://img.shields.io/badge/SAVEEN.DEV-EA4335?style=for-the-badge&logoColor=white)](https://saveenmaduranga.vercel.app/)
@@ -47,7 +47,7 @@ System Design              ████████████░░░░░�
 I'm always interested in **software engineering, technology, collaboration, and building useful digital products.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saveen-maduranga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-portfolio-react-jcsq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://saveenmaduranga.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:saveenonline@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94773730768)
 
